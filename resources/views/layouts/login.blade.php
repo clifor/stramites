@@ -12,16 +12,16 @@
     <title>SB Admin 2 - Bootstrap Admin Theme</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="plantilla/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="plantilla/vendor2/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- MetisMenu CSS -->
-    <link href="plantilla/vendor/metisMenu/metisMenu.min.css" rel="stylesheet">
+    <link href="plantilla/vendor2/metisMenu/metisMenu.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="plantilla/dist/css/sb-admin-2.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="plantilla/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="plantilla/vendor2/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -67,13 +67,13 @@
     </div>
 
     <!-- jQuery -->
-    <script src="plantilla/vendor/jquery/jquery.min.js"></script>
+    <script src="plantilla/vendor2/jquery/jquery.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="plantilla/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="plantilla/vendor2/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Metis Menu Plugin JavaScript -->
-    <script src="plantilla/vendor/metisMenu/metisMenu.min.js"></script>
+    <script src="plantilla/vendor2/metisMenu/metisMenu.min.js"></script>
 
     <!-- Custom Theme JavaScript -->
     <script src="plantilla/dist/js/sb-admin-2.js"></script>
